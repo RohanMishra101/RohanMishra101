@@ -1,15 +1,21 @@
 ### Hi there 👋
+
 Hi there! My name is Rohan Mishra, and I am a student at KIST College. I am just starting out in my career and am excited to learn and grow as a developer. 
 
 Projects 
+
 As a beginner, I do not have a lot of professional experience yet, but here are some of the projects I have worked on as a student: 
+  
+  
   ->[Futsal Booking System]: This was a group project that I worked on with a team of my classmates. We built a Futsal Booking System using C programming language.  
   ->[GYM Management System]: This was a group project that I worked on with a team of my classmates. We built a Futsal Booking System using C++ programming language. 
 
 Education 
+
 I am currently pursuing a bachelor's degree in BIT at KIST College. 
 
 Skills 
+  
   ->C 
   ->C++ 
   ->C# 
