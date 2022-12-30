@@ -17,7 +17,7 @@ Skills:
 Contact 
 
 Feel free to reach out to me via mishrarohan.404@gmail.com. I am always open to discussing new opportunities and connecting with like-minded individuals. 
-I hope this readme gives you a good overview of my background and interests. Thanks for stopping by!
+I hope this will gives you a good overview of my background and interests. Thanks for stopping by!
 
 - 🔭 I’m currently working on polyNotes
 - 🌱 I’m currently learning Unity
