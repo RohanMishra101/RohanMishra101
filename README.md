@@ -16,10 +16,7 @@ I am currently pursuing a bachelor's degree in BIT at KIST College.
 
 Skills 
   
-  ->C 
-  ->C++ 
-  ->C# 
-  ->Photoshop 
+  ->C,C++,C#,Photoshop,HTML,CSS...
 
 Contact 
 
