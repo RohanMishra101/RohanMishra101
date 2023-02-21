@@ -6,13 +6,13 @@ Projects:
 As a beginner, I do not have a lot of professional experience yet, but here are some of the projects I have worked on as a student: 
   
   ->[Futsal Booking System]: This was a group project that I worked on with a team of my classmates. We built a Futsal Booking System using C programming language.  
-  ->[GYM Management System]: This was a group project that I worked on with a team of my classmates. We built a Futsal Booking System using C++ programming language. 
+  ->[GYM Management System]: This was a group project that I worked on with a team of my classmates. We built a GYM Management System using C++ programming language. 
 
 Education:
 I am currently pursuing a bachelor's degree in BIT at KIST College. 
 
 Skills: 
-  ->C,C++,C#,Photoshop,HTML,CSS...
+  ->C,C++,C#,java,Photoshop,HTML,CSS...
 
 Contact 
 
