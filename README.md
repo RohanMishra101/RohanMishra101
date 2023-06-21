@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Mishra</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan" alt="rohan" /></a> </p>
 
-- 🔭 I’m currently working on **Maze Runner**
+- 🔭 I’m currently working on **Bullet Blitz**
 
 - 🌱 I’m currently learning **Java**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Unity, JavaScript**
 
-- 💬 Ask me about **Game Deveploment**
+- 💬 Ask me about **Game Development**
 
 - 📫 How to reach me **mishrarohan.404@gmail.com**
 
