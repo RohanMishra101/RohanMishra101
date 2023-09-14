@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Pixel Art**
 
-- 🤝 I’m looking for help with **Unity, JavaScript**
+- 🤝 I’m looking for help with **JavaScript**
 
 - 💬 Ask me about **Game Development**
 
