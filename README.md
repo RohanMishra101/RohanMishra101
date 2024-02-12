@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rohan Mishra</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan" alt="rohan" /></a> </p>
 
-- 🔭 I’m currently working on **Bullet Blitz**
+- 🔭 I’m currently working on ** **
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Laravel**
 
-- 👯 I’m looking to collaborate on **Pixel Art**
+- 👯 I’m looking to collaborate on ** **
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 💬 Ask me about **Game Development**
+- 💬 Ask me about ** **
 
 - 📫 How to reach me **mishrarohan.404@gmail.com**
 
